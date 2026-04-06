@@ -1,16 +1,40 @@
-## Hi there 👋
+# Intro
+<div align="center">
 
-<!--
-**samsick512/samsick512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=minseok&fontAlign=80&fontAlignY=40&color=gradient" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About
+
+Cyberlab 
+<p>시스템의 취약점을 찾고, 더 안전한 환경을 만드는 데 관심이 많습니다.</p>p  
+
+---
+
+### Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
+</p>
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+### Contact
+
+✉ your@email.com &nbsp;·&nbsp; [Blog](https://yourblog.com) &nbsp;·&nbsp; [Twitter](https://twitter.com/yourhandle)
