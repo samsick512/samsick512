@@ -24,7 +24,7 @@ Cyberlab
 
 ### Connect with me
 
-<a href="samsick0512@gmail.com">
+<a href="mailto:samsick0512@gmail.com">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/50af33b9-78a6-441b-bf08-698af5235d0e" />
 </a>
 
