@@ -13,7 +13,22 @@ Cyberlab
 
 ---
 
-### Skills
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+### Connect with me
+
+<a href="samsick0512@gmail.com">
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/50af33b9-78a6-441b-bf08-698af5235d0e" />
+</a>
+
+### Languages and Tools
 
 <p align="center">
 
@@ -26,15 +41,3 @@ Cyberlab
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 </p>
-
----
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-### Contact
-
-✉ your@email.com &nbsp;·&nbsp; [Blog](https://yourblog.com) &nbsp;·&nbsp; [Twitter](https://twitter.com/yourhandle)
