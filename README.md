@@ -3,7 +3,7 @@
 
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Practice&nbsp;make&nbsp;perfect&fontAlign=45&fontAlignY=50&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Minseok's%20GitHub&fontAlign=45&fontAlignY=50&color=gradient" />
 
 ### About
 
